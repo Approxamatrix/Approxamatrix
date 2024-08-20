@@ -1,4 +1,4 @@
-## Howdy ! I'm Approxamatrix (she/her) ! 👋
+## Howdy ! I'm Approxamatrix (she/her) 🏳️‍⚧️ ! 👋
 
 I'm a software dev. 
 
