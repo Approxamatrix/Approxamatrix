@@ -11,10 +11,10 @@ Atm, i'm working on a basic little skin manager for the batman arkham games.
 
 my website's at : https://approxamatrix.neocities.org/
 you can contact me via discord at : https://discord.com/users/356920687732064262
-
-
-
 Here are my stats (idrk why you wanna see them but idk )
+
+
+
 ![approxamatrix's Stats](https://github-readme-stats.vercel.app/api?username=approxamatrix&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![approxamatrix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=approxamatrix&theme=vue-dark&hide_border=false)
