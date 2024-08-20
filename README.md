@@ -11,7 +11,7 @@ Atm, i'm working on a basic little skin manager for the batman arkham games.
 
 my website's at : https://approxamatrix.neocities.org/ \
 you can contact me via discord at : https://discord.com/users/356920687732064262 \
-Here are my stats (idrk why you wanna see them but idk ) \
+Here are my stats (idrk why you wanna see them but idk ) 
 
 
 
